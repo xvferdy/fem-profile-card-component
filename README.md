@@ -14,7 +14,7 @@
 	- [Links](#links)
 - [Built with](#built-with)
 - [What I learned](#what-i-learned-)
-- [Difficult Things](#difficult-things)
+- [Difficult Things](#difficult-things-)
 - [Author](#author)
 
 ## Brief
@@ -55,14 +55,13 @@ Position the image using `transform:` `translate()`
 }
 ```
 
-## Difficult Things
-- 🏴‍☠️ Positioning the profile picture 
-- 🏴‍☠️ Make the background according to the design 
+## Difficult Things 😵‍💫
+Some struggles while working on this challenge and end up giving up
+- Positioning the profile picture ❔
+- Make the background according to the design ❔ 
  
 ## Author
-- Website - `null`
-- Frontend Mentor - [@xvferdy](https://www.frontendmentor.io/profile/xvferdy "xvferdy")
-- Twitter - `null`
+Frontend Mentor - [@xvferdy](https://www.frontendmentor.io/profile/xvferdy "xvferdy")
 
 <h3 align="right">
       <a href="#profile-card-component">To Top ⤴️</a>
