@@ -1,4 +1,4 @@
-# Base Apparel coming soon page
+# Profile card component
 
 > 🔖 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
 
@@ -47,7 +47,7 @@ Users should be able to:
 - Sass
 
 ## What I learned 🥳
-Position the image using `transform: translate`
+Position the image using `transform:` `translate()`
 ###### stylesheets/scss/components/\_card.scss
 ```scss
 %translate {
@@ -65,5 +65,5 @@ Position the image using `transform: translate`
 - Twitter - `null`
 
 <h3 align="right">
-      <a href="#base-apparel-coming-soon-page">To Top ⤴️</a>
+      <a href="#profile-card-component">To Top ⤴️</a>
 </h3>
