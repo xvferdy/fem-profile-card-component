@@ -66,21 +66,3 @@ Frontend Mentor - [@xvferdy](https://www.frontendmentor.io/profile/xvferdy "xvfe
 <h3 align="right">
       <a href="#profile-card-component">To Top ⤴️</a>
 </h3>
-<h3 align="right">
-      <a href="#profile-card-component">To Top ⤴️</a>
-</h3>
-<h3 align="right">
-      <a href="#profile-card-component">To Top ⤴️</a>
-</h3>
-<h3 align="right">
-      <a href="#profile-card-component">To Top ⤴️</a>
-</h3>
-<h3 align="right">
-      <a href="#profile-card-component">To Top ⤴️</a>
-</h3>
-<h3 align="right">
-      <a href="#profile-card-component">To Top ⤴️</a>
-</h3>
-<h3 align="right">
-      <a href="#profile-card-component">To Top ⤴️</a>
-</h3>
