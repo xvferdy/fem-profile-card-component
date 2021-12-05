@@ -39,12 +39,12 @@ Users should be able to:
 - Solution URL: here
 - Live Site URL: here
 
-> ⏱️ My estimate time for this challenge is 1 days
-
 ## Built with
 - VSCode
 - HTML
 - Sass
+
+> ⏱️ My estimate time for this challenge is 1 days
 
 ## What I learned 🥳
 Position the image using `transform:` `translate()`
@@ -56,9 +56,9 @@ Position the image using `transform:` `translate()`
 ```
 
 ## Difficult Things
-🔹 🏴‍☠️ Positioning the profile picture <br>
-🔹 🏴‍☠️ Make the background according to the design <br>
-
+- 🏴‍☠️ Positioning the profile picture 
+- 🏴‍☠️ Make the background according to the design 
+ 
 ## Author
 - Website - `null`
 - Frontend Mentor - [@xvferdy](https://www.frontendmentor.io/profile/xvferdy "xvferdy")
