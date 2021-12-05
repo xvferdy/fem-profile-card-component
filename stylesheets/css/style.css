@@ -1,0 +1,127 @@
+/* ===COLORS=== */
+/* ===FONTS=== */
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+/* ===BREAKPOINTS=== */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+body {
+  box-sizing: border-box;
+  background-color: #19a2ae;
+  background-image: url(../../images/bg-pattern-top.svg);
+  background-position: right 50vw bottom 40vh;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.container {
+  min-height: calc(100vh - 20px);
+  display: grid;
+  place-items: center;
+  padding: 2.4rem;
+}
+
+h3 {
+  font-size: 1.8rem;
+  line-height: 2.7rem;
+}
+
+p {
+  font-size: 1.4rem;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 1.5rem;
+  overflow: hidden;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+}
+.card__header {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card__header-bg {
+  vertical-align: bottom;
+  width: 100%;
+}
+.card__header-avatar {
+  border-radius: 50%;
+  border: 5px solid white;
+  position: absolute;
+  top: 62%;
+}
+@media only screen and (max-width: 320px) {
+  .card__header-avatar {
+    width: 35%;
+  }
+}
+.card__info {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+}
+.card__info-name {
+  margin-top: 7rem;
+  margin-bottom: 5px;
+  color: #2d3248;
+}
+.card__info-name span {
+  margin-left: 0.5rem;
+  font-weight: 400;
+  color: #6a6f81;
+}
+.card__info-place {
+  margin-bottom: 22px;
+  color: #6a6f81;
+}
+.card__info .divider {
+  height: 1px;
+  width: 100%;
+  background-color: #e7e7e7;
+}
+.card__info-stats {
+  width: 100%;
+  padding: 2.5rem 4.8rem;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+.card__info-stats p {
+  font-size: 1rem;
+}
+.card__info-stats .stat.likes, .card__info-stats .stat.photos {
+  transform: translateX(-0.7rem);
+}
+.card__info-stats .stat {
+  text-align: center;
+}
+.card__info-stats .stat h3 {
+  color: #2d3248;
+}
+.card__info-stats .stat p {
+  color: #6a6f81;
+  letter-spacing: 0.15rem;
+  line-height: 1.5rem;
+}
+@media only screen and (max-width: 320px) {
+  .card__info-stats {
+    padding: 1.5rem 2.3rem;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
